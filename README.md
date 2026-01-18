@@ -10,3 +10,10 @@ You will need to install the cryptography library to run these scripts:
 ```bash
 pip install cryptography
 ```
+## 🚀 How to Run
+
+After installing the requirements, you can run the scripts directly from your terminal:
+
+1. **RSA Demo:**
+   ```bash
+   python hashing_sha256_assignment.py
